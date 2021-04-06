@@ -2,7 +2,7 @@ class account:
     def __init__(self, Owner,Balance):  
         self.Owner=Owner
         self.Balance=Balance
-        print(self.Balance)
+        #print(self.Balance)
 
     # print(Balance)
     
